@@ -30,6 +30,6 @@ SUPER-RESOLUTION](https://arxiv.org/abs/2304.06497)
 
 A Java engineer who focused on SR research during graduate school.
 
-ps: Looking for a side hustle
+23届🐮🐎
 
 ###### First my gaze toward the moon, but the moon shines on the ditch

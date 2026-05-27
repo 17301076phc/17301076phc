@@ -15,18 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-I'm trying to make something.
-
-Something about me:
-
-A Java engineer who focused on SR research during graduate school.
-
-&#x1F393;School: Beijing Jiaotong University
-
-&#x1F4F0;Paper: [A COMPREHENSIVE COMPARISON OF PROJECTIONS IN OMNIDIRECTIONAL
-SUPER-RESOLUTION](https://arxiv.org/abs/2304.06497)
--->
-&#x1F463;Working...
-
-
-###### First my gaze toward the moon, but the moon shines on the ditch
